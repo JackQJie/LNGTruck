@@ -4,7 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/GuoXinWorkSpeace/LNGTruck/app/src/main/res/layout/activity_main.xml" value="0.21833839918946302" />
+        <entry key="..\:/GuoXinWorkSpeace/LNGTruck/app/src/main/res/layout/activity_place.xml" value="0.40443840579710144" />
         <entry key="..\:/GuoXinWorkSpeace/LNGTruck/app/src/main/res/layout/activity_weather.xml" value="0.41304347826086957" />
+        <entry key="..\:/GuoXinWorkSpeace/LNGTruck/app/src/main/res/layout/forecast.xml" value="0.40307971014492755" />
+        <entry key="..\:/GuoXinWorkSpeace/LNGTruck/app/src/main/res/layout/forecast_item.xml" value="0.40307971014492755" />
+        <entry key="..\:/GuoXinWorkSpeace/LNGTruck/app/src/main/res/layout/fragment_place.xml" value="0.2604166666666667" />
+        <entry key="..\:/GuoXinWorkSpeace/LNGTruck/app/src/main/res/layout/fragment_plce.xml" value="0.41304347826086957" />
+        <entry key="..\:/GuoXinWorkSpeace/LNGTruck/app/src/main/res/layout/life_index.xml" value="0.40307971014492755" />
+        <entry key="..\:/GuoXinWorkSpeace/LNGTruck/app/src/main/res/layout/now.xml" value="0.40307971014492755" />
+        <entry key="..\:/GuoXinWorkSpeace/LNGTruck/app/src/main/res/layout/place_item.xml" value="0.41304347826086957" />
       </map>
     </option>
   </component>

@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LNGTruck</string>
+    <string name="InputAddress">输入地址</string>
+    <string name="Forecast">预报</string>
 </resources>

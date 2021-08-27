@@ -37,6 +37,8 @@ object LogUtil {
     fun e(tag:String,msg:String){
         if (level<= VERBOSE){
             Log.e(tag,msg)
+
+
         }
     }
 
