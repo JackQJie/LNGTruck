@@ -28,26 +28,27 @@
         android:theme="@style/Theme.LNGTruck">
         <activity
             android:name=".ui.place.PlaceActivity"
-            android:exported="true" >
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+
         </activity>
+
         <activity
             android:name=".ui.weather.WeatherActivity"
             android:exported="true">
 
-
         </activity>
-
 
         <activity
             android:name=".ui.main.MainActivity"
             android:exported="true">
 
         </activity>
+
         <!--        <activity-->
         <!--            android:name=".CreateActivity"-->
         <!--            android:screenOrientation="portrait"/>-->
@@ -62,7 +63,7 @@
         <!--            android:screenOrientation="portrait"/>-->
         <provider
             android:name="cn.bmob.v3.util.BmobContentProvider"
-            android:authorities="com.sxhxly.lngtruck.BmobContentProvider"/>
+            android:authorities="com.sxhxly.lngtruck.BmobContentProvider" />
     </application>
 
 </manifest>
