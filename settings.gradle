@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "LNGTruck"
 include ':app'
+include ':permissionx'
